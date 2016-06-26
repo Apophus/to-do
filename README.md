@@ -1,2 +1,3 @@
 # to-do
-A web up for your to-do list
+A web app for your to-do list.
+Created using Python Flask and Postgresql
